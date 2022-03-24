@@ -1,6 +1,6 @@
 
 def test():
-    print('new month')
+    print('new month is here')
 
 
 if __name__ == "__main__":
